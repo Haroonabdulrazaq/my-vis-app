@@ -1,8 +1,12 @@
-# My-Vis-App
-This is a test code for
+# My-Vis-App 
+This is a test code for the graphing API
  
+## Screenshots :camera: 
+![screenshot](./public/Screenshot1.png)
 
-### Getting Started 
+![screenshot](./public/Screenshot2.png)
+
+### Setting up 🔧
  To clone this repo
  - [ ] Run this command in your terminal/ gitbash
       <code> git clone https://github.com/Haroonabdulrazaq/my-vis-app.git</code>
