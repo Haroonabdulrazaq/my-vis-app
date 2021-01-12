@@ -1,10 +1,10 @@
-# My-Vis-App 
+# My-Vis-App :arrow_upper_right:
 This is a test code for the graphing API
  
 ## Screenshots :camera: 
 ![screenshot](./public/Screenshot1.png)
 
-![screenshot](./public/Screenshot2.png)
+![screenshot](./public/Screenshot2.png)git a
 
 ### Setting up 🔧
  To clone this repo
