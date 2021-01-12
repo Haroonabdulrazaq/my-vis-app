@@ -6,7 +6,7 @@ This is a test code for the graphing API
 
 ![screenshot](./public/Screenshot2.png)
 
-### Setting up 🔧
+## Setting up 🔧
  To clone this repo
  - [ ] Run this command in your terminal/ gitbash
       <code> git clone https://github.com/Haroonabdulrazaq/my-vis-app.git</code>
